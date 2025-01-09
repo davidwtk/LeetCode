@@ -1,2 +1,2 @@
 # LeetCode
-My LeetCode problems
+My LeetCode problems taken from Neetcode 150.
